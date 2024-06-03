@@ -1,4 +1,4 @@
-# 目录
+# 目錄
 
 <img src="./cover.jpeg" style="width: 28%" />
 
