@@ -19,7 +19,7 @@ vuepress 測試 vuepress test。
 * [第 2 章 ](ch02.md)
 * [總結](summary.md)
 
-## 本地开发 & 阅读
+## 本地開發 & 閱讀
 
 本項目基於 VuePress 進行開發，以提供比 Github Mardown 更佳的閱讀體驗
 
@@ -32,8 +32,8 @@ vuepress 測試 vuepress test。
 [vuepress]: https://v2.vuepress.vuejs.org/zh/
 
 ```sh
-git clone https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh.git
-cd A-Philosophy-of-Software-Design-zh/
+git clone https://github.com/netlol/vuepress.git
+cd vuepress/
 yarn install    # 安装 VuePress@next
 yarn dev        # 編譯並打開網頁預覽
 ```
